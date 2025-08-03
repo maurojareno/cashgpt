@@ -1,4 +1,4 @@
-# typescript-react-node-express-prisma-postgresql-boilerplate
+# Finances App for tracking personal finances, get AI recommendations about saving money or reduce expenditures
 
 ## Client
 * React 19
