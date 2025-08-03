@@ -1,0 +1,14 @@
+{
+  "expenses": [
+    { "id": "1", "title": "luz", "cost": 100 },
+    { "id": "2", "title": "gas", "cost": 200 }
+  ],
+  "accounts": [
+    { "id": "1", "title": "Sabadell", "amount": 1000 },
+    { "id": "2", "title": "BBVA", "amount": 500 }
+  ],
+  "samples": [
+    { "id": "1", "name": "Sample 1", "email": "sample1@example.com" },
+    { "id": "2", "name": "Sample 2", "email": "sample2@example.com" }
+  ]
+}
