@@ -1,5 +1,6 @@
 import './App.css'
 import { SampleList } from '../features/sample-list';
+import { ExpensesList } from '../features/expenses';
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <h1>Vite + React + TS Client</h1>
       <SampleList />
+      <ExpensesList />
     </>
   )
 }

@@ -1,7 +1,33 @@
 {
   "expenses": [
-    { "id": "1", "title": "luz", "cost": 100 },
-    { "id": "2", "title": "gas", "cost": 200 }
+   {
+      "id": 1,
+      "date": "2025-07-01T09:30:00",
+      "amount": 45.60,
+      "currency_name": "Euro",
+      "currency_id": "EUR",
+      "category_id": 10,
+      "category_name": "Supermercado",
+      "payer_id": 101,
+      "payer_name": "María Pérez",
+      "account_id": "ES7620770024003102575766",
+      "account_name": "Cuenta Corriente BBVA",
+      "description": "Compra semanal de alimentos y productos de limpieza"
+    },
+    {
+      "id": 2,
+      "date": "2025-07-03T18:15:00",
+      "amount": 120.00,
+      "currency_name": "Euro",
+      "currency_id": "EUR",
+      "category_id": 20,
+      "category_name": "Transporte",
+      "payer_id": 102,
+      "payer_name": "Carlos Gómez",
+      "account_id": "ES9121000418450200051332",
+      "account_name": "Cuenta de Ahorros Santander",
+      "description": "Recarga de abono transporte mensual"
+    }
   ],
   "accounts": [
     { "id": "1", "title": "Sabadell", "amount": 1000 },
